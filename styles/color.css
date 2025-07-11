@@ -1,0 +1,288 @@
+
+
+.open-sans-simple{
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+ "wdth" 100;
+}
+
+
+
+/* header style */
+
+nav ul li{
+ list-style:none;
+}
+
+nav li a{
+ text-decoration: none;
+  
+ }
+
+.logo-text{
+ font-size:70px;
+ color: #4E47FF;
+ font-weight: 600;
+}
+
+li button{
+ background-color:#4E47FF;
+ color: white;
+ border-radius:5px;
+ cursor: pointer;
+ border: none;
+ padding: 15px 40px;
+}
+ 
+ 
+
+
+button:hover{
+ background-color:black;
+}
+
+nav ul{
+ justify-content:center;
+ margin:0 auto;
+ display: flex;
+ gap:50%;
+}
+ 
+/* headersec1 */
+
+button{
+ color: white;
+ background-color:#4E47FF;
+ border-radius:5px;
+ cursor: pointer;
+ border: none;
+ padding: 20px 20px;
+}
+
+.header-sec1{
+ display:block;
+ text-align: center;
+ margin:267px 309px;
+ 
+}
+
+.text{
+ color: #252432;
+ font-size:40px;
+}
+
+header{
+  background-image:url(/Assets/Hero-bg.png);
+  width: auto;
+  background-size:360px 309px;
+  margin: 0 auto;
+}
+ 
+  
+
+.header-sec{
+ height:846px;
+ width:1440px;
+}
+
+/*main sec-1 */
+
+.mainsec-1{
+   margin:20px 159px 0px 141px;
+  text-align: center;
+  justify-content:center;
+  display: flex;
+  gap:200px;
+
+}
+ 
+.pic{
+border-radius:25px;
+box-shadow:10px 0px 10px 0px black;
+}
+
+.titleh{
+  color:#252432;
+  font-size:42px;
+  font-weight: bold;
+}
+
+.description{
+  padding: 5px;
+
+}
+.p{
+  left:10px;
+}
+
+/* sec-2 */
+
+.mainsec-2{
+   margin:200px 490px;
+  text-align: center;
+  justify-content:center;
+  display: flex;
+  gap:200px;
+ 
+
+}
+
+.div-container{
+  align-items: center;
+  justify-content: center;
+
+}
+
+.container{
+  display: flex;
+  gap: 50px;
+}
+
+.mainsec-2{
+  align-items: center;
+  background:#cccaf2;
+}
+div h3{
+  font-size:15px;
+  font-weight:bold;
+}
+
+div h1{
+  font-size:24px;
+  font-weight: 800px;
+}
+
+
+.container div h1{
+  font-size:50px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+
+
+/* section 3 */
+
+.avatar{
+  display: flex;
+  align-items: center;
+  gap:10px;
+}
+
+
+.user{
+    align-items: center;
+}
+
+/* .section-3{ */
+
+
+
+.card{
+  width:300px;
+  border:2px solid black;
+  background-color:whitesmoke;
+  border-radius:10px;
+  border:none;
+}
+
+/* sec3 */
+
+.section-3{
+  margin:400px 130px;
+  align-items: center;
+  justify-content: center;
+  width: 1140px;
+  height: 240px;
+  
+}
+
+.card-container{
+  display: flex;
+  gap: 70px;
+  align-items: center;
+  justify-content: center;
+}
+
+/* sec4 */
+
+.section-4{
+  display:flex;
+  gap:100px;
+  text-align: center;
+  justify-content: center;
+  margin:60px 450px ;
+  padding:10px;
+  
+  background-color:rgb(215, 212, 212);
+  
+}
+
+.bt{
+  padding:10px 50px;
+  margin-right:60px;
+}
+
+form input ,textarea{
+  border-radius:5px;
+  border: none;
+}
+
+/* footer */
+
+ul li{
+  list-style:none;
+
+}
+
+ul li a{
+  display:flex;
+  text-decoration: none;
+  color:rgb(152, 139, 139);
+
+}
+
+.div-foot{
+  margin: 0px 700px;
+  text-align: center;
+  justify-content: center;
+}
+
+div ul{
+  margin-right:10px;
+  display: flex;
+  gap:100px;
+  justify-content:space-between;
+  width:513px;
+  height: 48px;
+  width:400px;
+}
+
+.ft{
+  gap:50px;
+}
+.logo{
+  font-size:100px;
+  font-weight:bold;
+  color: #4E47FF;
+  padding:20px;
+}
+
+ 
+
+
+ 
+  
+
+
+  
+ 
+
+
+
+
+
+
+ 
+
+
